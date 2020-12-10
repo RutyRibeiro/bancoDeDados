@@ -13,10 +13,10 @@ print(lista)
 
 
 config = {
-    'host': 'easyfenix.c6gbw6pywtzi.sa-east-1.rds.amazonaws.com',
-    'user': 'datvs',
-    'password': '124MudarMudar',
-    'database': 'EasyBI'
+    'host': '',
+    'user': '',
+    'password': '',
+    'database': ''
 }
 
 
