@@ -2,10 +2,10 @@ import mysql.connector
 import csv
 lista = []
 config = {
-    'host': '201.74.113.36',
-    'user': 'acessoRemoto',
-    'password': 'acessoRemotoAps',
-    'database': 'loginTeste'
+    'host': '',
+    'user': '',
+    'password': '',
+    'database': ''
 }
 
 
